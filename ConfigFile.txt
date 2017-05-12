@@ -1,0 +1,11 @@
+//Ships coordinates x,y-x,y
+//First set is the head of the ship and second is tail
+//Ships must vertical or horizontal only
+
+Ship1 = 1,2-6,2
+
+Ship2 = 91,90-91,95
+
+Ship3 = 45,90-49,90
+
+Ship4 = 10,70-10,77
